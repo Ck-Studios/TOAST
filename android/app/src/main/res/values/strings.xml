@@ -1,0 +1,5 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">EJs8YVxDYvta89OyJTWiKrPP0aS_ryXQBLwu7</string>
+    <string name="app_name">TOAST</string>
+    <string name="default_notification_channel_id">DEFAULT_CHANNEL</string>
+</resources>

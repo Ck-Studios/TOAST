@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "162870869695",
+    "firebase_url": "https://devhi-toast.firebaseio.com",
+    "project_id": "devhi-toast",
+    "storage_bucket": "devhi-toast.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162870869695:android:35973fe6a5385732",
+        "android_client_info": {
+          "package_name": "me.devhi.toastapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162870869695-siecjn4qon116fa5kt8lbrf5f6lj2nep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.devhi.toastapp",
+            "certificate_hash": "debf680eb8681c4efb19834186c24fe9e93f2469"
+          }
+        },
+        {
+          "client_id": "162870869695-hatcc60pps8195u0t0h9m85mlo0k978e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFhW8R3CLcWG8sijPAGywhcH_qbERAxMo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162870869695-hatcc60pps8195u0t0h9m85mlo0k978e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "162870869695-mccrkkb5hq62ldnigtm3pj6ulpuhib82.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "me.devhi.toast"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
